@@ -1140,6 +1140,18 @@
         ],
         "requiredTech": "Drama and Poetry"
     },
+	{
+		"name": "Mud Pyramid Mosque",
+		"replaces": "Temple",
+		"uniqueTo": "Greece",
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"science": 1,
+		"faith": 2,
+		"uniques": ["[Gold] cost of purchasing items in cities [-10]%"]
+		"requiredBuilding": "Shrine",
+		"requiredTech": "Philosophy"
+	},
     {
         "name": "Garden",
         "uniques": [
