@@ -1014,7 +1014,11 @@
             "[-60]% construction time for [Farm] improvements",
             "[-60]% construction time for [Mine] improvements",
             "[-60]% construction time for [Plantation] improvements",
+            "[-60]% construction time for [road] improvements",
+            "[-60]% construction time for [railroads] improvements",
             "[-60]% construction time for [Camp] improvements",
+            "[+1] Movement <for [All] units>",
+            "[-100]% maintenance on road & railroads",
             "[-60]% construction time for [Quarry] improvements"
             
         ],
