@@ -1009,6 +1009,8 @@
             "[+3 Food, +3 Production, +3 Gold, +1 Faith] from every [Snow]",
             "[+3 Food, +3 Production, +3 Gold, +1 Faith] from every [Desert]",
             "[+2 Food, +3 Production, +3 Gold, +1 Faith] from every [Tundra]",
+            "[+7 Food, +7 Production, +3 Gold, +1 Faith] from every [Coast]",
+            "[+7 Food, +7 Production, +3 Gold, +1 Faith] from every [Mountain]",
             "[-75]% unhappiness from the number of cities",
             "[-75]% Unhappiness from [Population] [in all cities]",
             "[-60]% construction time for [Pasture] improvements",
