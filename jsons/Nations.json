@@ -1006,8 +1006,8 @@
             "[+1 Food, +1 Production, +3 Gold, +1 Faith] from every [Plantation]",
             "[+1 Food, +1 Production, +3 Gold, +1 Faith] from every [Camp]",
             "[+1 Food, +1 Production, +3 Gold, +1 Faith] from every [Quarry]",
-            "[+3 Food, +3 Production, +3 Gold, +1 Faith] from every [Snow]",
-            "[+3 Food, +3 Production, +3 Gold, +1 Faith] from every [Desert]",
+            "[+4 Food, +3 Production, +3 Gold, +1 Faith] from every [Snow]",
+            "[+4 Food, +3 Production, +3 Gold, +1 Faith] from every [Desert]",
             "[+2 Food, +3 Production, +3 Gold, +1 Faith] from every [Tundra]",
             "[+7 Food, +7 Production, +3 Gold, +1 Faith] from every [Coast]",
             "[+7 Food, +7 Production, +3 Gold, +1 Faith] from every [Mountain]",
@@ -1020,9 +1020,10 @@
             "[-60]% construction time for [road] improvements",
             "[-60]% construction time for [railroads] improvements",
             "[-60]% construction time for [Camp] improvements",
-            "[+1] Movement <for [All] units>",
+            "[+2] Movement <for [All] units>",
             "[-100]% maintenance on road & railroads",
-            "[-60]% construction time for [Quarry] improvements"
+            "[-60]% construction time for [Quarry] improvements",
+            "May choose [3] additional belief(s) of any type when [founding] a religion"
             
         ],
         "cities": [
