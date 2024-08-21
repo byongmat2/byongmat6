@@ -1020,11 +1020,11 @@
             "[-60]% construction time for [road] improvements",
             "[-60]% construction time for [railroads] improvements",
             "[-60]% construction time for [Camp] improvements",
-            "[+2] Movement <for [All] units>",
+            "[+4] Movement <for [All] units>",
             "[-100]% maintenance on road & railroads",
             "[-60]% construction time for [Quarry] improvements",
             "[-60]% construction time for [All] improvements"
-            "May choose [3] additional belief(s) of any type when [founding] a religion"
+            "May choose [5] additional belief(s) of any type when [founding] a religion"
             
         ],
         "cities": [
