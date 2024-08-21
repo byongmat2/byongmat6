@@ -1023,7 +1023,8 @@
             "[+4] Movement <for [All] units>",
             "[-100]% maintenance on road & railroads",
             "[-60]% construction time for [Quarry] improvements",
-            "[-60]% construction time for [All] improvements"
+            "[-60]% construction time for [All] improvements",
+            "[+1] Sight <for [{Military} {Land}] units>",
             "May choose [5] additional belief(s) of any type when [founding] a religion"
             
         ],
