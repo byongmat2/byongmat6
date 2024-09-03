@@ -1011,8 +1011,8 @@
             "[+2 Food, +3 Production, +3 Gold, +1 Faith] from every [Tundra]",
             "[+7 Food, +7 Production, +3 Gold, +1 Faith] from every [Coast]",
             "[+7 Food, +7 Production, +3 Gold, +1 Faith] from every [Mountain]",
-            "[-80]% unhappiness from the number of cities",
-            "[-80]% Unhappiness from [Population] [in all cities]",
+            "[-85]% unhappiness from the number of cities",
+            "[-85]% Unhappiness from [Population] [in all cities]",
             "[-60]% construction time for [Pasture] improvements",
             "[-60]% construction time for [Farm] improvements",
             "[-60]% construction time for [Mine] improvements",
@@ -1022,10 +1022,10 @@
             "[-60]% construction time for [Camp] improvements",
             "[+4] Movement <for [All] units>",
             "[-100]% maintenance on road & railroads",
-            "[-60]% construction time for [Quarry] improvements",
-            "[-60]% construction time for [All] improvements",
-            "[+1] Sight <for [{Military} {Land}] units>",
-            "May choose [5] additional belief(s) of any type when [founding] a religion"
+            "[-75]% construction time for [Quarry] improvements",
+            "[-75]% construction time for [All] improvements",
+            "[+2] Sight <for [{Military} {Land}] units>",
+            "May choose [12] additional belief(s) of any type when [founding] a religion"
             
         ],
         "cities": [
