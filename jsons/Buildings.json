@@ -3257,11 +3257,13 @@
     },
     {
         "name": "The Greece",
+	"cost": 2500,
         "uniqueTo": "Greece",
+        "requiredTech": "Future Tech",
         "culture": 1,
         "isWonder": true,
         "uniques": [
-            "[-100]% Unhappiness from [Population] [in all cities]"]
+            "[-100]% Unhappiness from [Population] [in all cities]"]Future Tech
     }
 
 ]
