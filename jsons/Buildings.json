@@ -3193,17 +3193,6 @@
     // Information Era
     // Column 15
     {
-        "name": "The Greece",
-        "uniqueTo": "Greece",
-        "production": 2500,
-        "maintenance": 1,
-        "hurryCostModifier": 0,
-        "uniques": [
-            "[-100]% Unhappiness from [Population] [in all cities]"
-        ],
-        "requiredTech": "Calendar"
-    },
-    {
         "name": "Bomb Shelter",
         "cost": 300,
         "maintenance": 1,
@@ -3266,4 +3255,15 @@
             "Cannot be hurried"
         ]
     }
+    {
+        "name": "The Greece",
+	"isWonder": true,
+        "uniqueTo": "Greece",
+        "production": 2500,
+        "hurryCostModifier": 0,
+        "uniques": [
+            "[-100]% Unhappiness from [Population] [in all cities]"
+        ],
+        
+    },
 ]
