@@ -3254,6 +3254,14 @@
             "Hidden when [Cultural] Victory is disabled",
             "Cannot be hurried"
         ]
-    }
+    },
+    {
+        "name": "The Greece",
+        "uniqueTo": "Greece",
+        "culture": 1,
+        "isWonder": true,
+        "uniques": [
+            "[-100]% Unhappiness from [Population] [in all cities]"
+    },
 
 ]
