@@ -1013,6 +1013,10 @@
             "[+7 Food, +7 Production, +3 Gold, +1 Faith] from every [Mountain]",
             "[-85]% unhappiness from the number of cities",
             "[-85]% Unhappiness from [Population] [in all cities]",
+            ["[+3 culture] [in all cities]"]
+            ["[+5 Food] [in all cities]"]
+            ["[+5 Production] [in all cities]"]
+            ["[+3 Happness] [in all cities]"]
             "[-60]% construction time for [Pasture] improvements",
             "[-60]% construction time for [Farm] improvements",
             "[-60]% construction time for [Mine] improvements",
