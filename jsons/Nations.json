@@ -998,22 +998,20 @@
         "uniques": [
             "Units ignore terrain costs when moving into any tile with Hills",
             "[-50]% maintenance on road & railroads",
-            "[-75]% City-State Influence degradation",
-            "City-State Influence recovers at twice the normal rate"
-            "[+1 Food, +1 Gold, +2 Faith, +1 culture] from every [Mine]",
-            "[+1 Production, +1 Gold, +2 Faith, +1 culture] from every [Farm]",
-            "[+2 Faith, +1culture] from every [Pasture]",
-            "[+2 Faith, +1culture] from every [Plantation]",
-            "[+2 Faith, +1culture] from every [Camp]",
-            "[+2 Faith, +1culture] from every [Quarry]",
+            "City-State Influence recovers at twice the normal rate",
+            "[+1 Food, +1 Gold, +2 Faith, +1 Culture] from every [Mine]",
+            "[+1 Production, +1 Gold, +2 Faith, +1 Culture] from every [Farm]",
+            "[+2 Faith, +1 Culture] from every [Pasture]",
+            "[+2 Faith, +1 Culture] from every [Plantation]",
+            "[+2 Faith, +1 Culture] from every [Camp]",
+            "[+2 Faith, +1 Culture] from every [Quarry]",
             "[+1 Food, +1 Production] from every [Snow]",
             "[+1 Food] from every [Desert]",
             "[+1 Food] from every [Tundra]",
             "[+7 Food, +7 Production, +3 Gold, +1 Faith] from every [Coast]",
-            "[+3 Food, +3 Production, +1 Gold, +2 Faith, +1culture] from every [Mountain]",
+            "[+3 Food, +3 Production, +1 Gold, +2 Faith, +1 Culture] from every [Mountain]",
             "[-0]% unhappiness from the number of cities",
             "[-25]% Unhappiness from [Population] [in all cities]",
-            
             "[-60]% construction time for [Pasture] improvements",
             "[-60]% construction time for [Farm] improvements",
             "[-60]% construction time for [Mine] improvements",
@@ -1024,8 +1022,8 @@
             "[+0] Movement <for [All] units>",
             "[-100]% maintenance on road & railroads",
             "[-60]% construction time for [Quarry] improvements",
-            "[-]% construction time for [All] improvements",
-            "[+0] Sight <for [{Military} {Land}] units>",
+            
+            
             "May choose [17] additional belief(s) of any type when [founding] a religion"
             
         ],
