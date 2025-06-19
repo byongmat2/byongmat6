@@ -1006,9 +1006,9 @@
             "[+2 Faith, +1 Culture] from every [Camp]",
             "[+2 Faith, +1 Culture] from every [Quarry]",
             "[+1 Food, +1 Production] from every [Snow]",
-            "[+1 Food] from every [Desert]",
-            "[+1 Food] from every [Tundra]",
-            "[+7 Food, +7 Production, +3 Gold, +1 Faith] from every [Coast]",
+            "[+1 Food, +1 Faith] from every [Desert]",
+            "[+1 Food, +1 Faith] from every [Tundra]",
+            "[+7 Food, +7 Production, +3 Gold, +10 Faith] from every [Coast]",
             "[+3 Food, +3 Production, +1 Gold, +2 Faith, +1 Culture] from every [Mountain]",
             "[-0]% unhappiness from the number of cities",
             "[-25]% Unhappiness from [Population] [in all cities]",
@@ -1024,7 +1024,7 @@
             "[-60]% construction time for [Quarry] improvements",
             
             
-            "May choose [17] additional belief(s) of any type when [founding] a religion"
+            "May choose [20] additional belief(s) of any type when [founding] a religion"
             
         ],
         "cities": [
